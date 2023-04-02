@@ -1,8 +1,8 @@
 # **Building a serverless API that tweets about my blog posts using Azure OpenAI and LangChain**
 
-This repository contains a serverless API (Azure Function) that creates tweets from a given blog post.
+This repository contains a serverless API (Azure Function) that creates tweets from a given URI.
 
-The API reads the content of a web page and summarizes it into a 280-character text using Azure OpenAI, this resulting text is then used to create a tweet.
+The API reads the content of a web page URI and summarizes it into a 280-character text using Azure OpenAI, the resulting text is then used to create a tweet.
 
 # **How it works**
 
