@@ -1,0 +1,6 @@
+azure-functions
+tweepy
+langchain
+openai
+tiktoken
+unstructured
