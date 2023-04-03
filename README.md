@@ -91,11 +91,6 @@ curl -X POST http://localhost:7071/api/tweet \
 
 # **Output**
 
-If you want to see the end result, you can visit the following Twitter account:
-- https://twitter.com/CarlosPons34994
-
-This Twitter account has no purpose at all, I have created it specially for this demo.
-
-Here's a screenshot showing how a couple of the created tweets look like:
+Here's how the created tweets look like on Twitter:
 
 ![api-diagram](https://raw.githubusercontent.com/karlospn/building-a-tweeting-api-using-openai-and-azure-functions/main/docs/tweetapi-tweet-results.png)
